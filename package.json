@@ -21,9 +21,13 @@
   "homepage": "https://github.com/BigZ17/book-search-engine#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "graphql-tag": "^2.11.0",
     "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.1",
     "mongoose": "^5.10.12",
     "path": "^0.12.7",
-    "react": "^17.0.1"
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-router-dom": "^5.2.0"
   }
 }
