@@ -1,0 +1,29 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "Books",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigZ17/book-search-engine.git"
+  },
+  "keywords": [
+    "Books"
+  ],
+  "author": "Zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigZ17/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/BigZ17/book-search-engine#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.12",
+    "path": "^0.12.7",
+    "react": "^17.0.1"
+  }
+}
